@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Example2ITESM</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="regresar">regresar</string>
+    <string name="i_m_activity_child">I\'m activity child</string>
 </resources>
